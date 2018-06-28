@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="button">\@string</string>
+    <string name="teste">\@string</string>
+    <string name="checkbox">\@string</string>
+    <string name="button1">\@string</string>
+</resources>
